@@ -1,0 +1,609 @@
+html {
+    margin: 0px;
+    border: 0px;
+    height: 4800px;
+    width: 100%;
+    min-width: 1250px;
+    max-width: 1280px;
+    background: #D7B369;
+    position: relative;
+
+}
+
+
+#retanguloFixo {
+    min-width: 1200px;
+    position: fixed;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 98.12%;
+    height: 60px;
+    width: 100%;
+    background: #8D0900;
+    border-bottom: 1px solid #000000;
+}
+
+#historia {
+
+    position: absolute;
+    margin-top: 1.3%;
+    left: 15.74%;
+    right: 72.59%;
+    top: 0.62%;
+    bottom: 98.75%;
+
+    font-family: Original Surfer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+
+#produtos {
+
+    position: absolute;
+    margin-top: 1.3%;
+    left: 34.17%;
+    right: 52.04%;
+    top: 0.62%;
+    bottom: 98.75%;
+
+    font-family: Original Surfer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFEC00;
+}
+
+
+#localizacao {
+
+    position: absolute;
+    margin-top: 1.3%;
+    left: 54.63%;
+    right: 26.85%;
+    top: 0.62%;
+    bottom: 98.75%;
+
+    font-family: Original Surfer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+
+#contato {
+
+    position: absolute;
+    margin-top: 1.3%;
+    left: 79.91%;
+    right: 6.94%;
+    top: 0.62%;
+    bottom: 98.75%;
+
+    font-family: Original Surfer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+#imgCasa {
+
+    position: absolute;
+    margin-top: 0.3%;
+    left: 4%;
+    right: 90.93%;
+    top: 0.31%;
+    bottom: 98.44%;
+    height: 40px;
+    width: 40px;
+}
+
+#logo {
+    position: absolute;
+    width: 423px;
+    height: 214px;
+    left: calc(50% - 423px/2 + 0.5px);
+    top: calc(3%);
+}
+
+#nossaHistoria h1 {
+    position: absolute;
+    left: 5%;
+    right: 61.08%;
+    top: 9.5%;
+    bottom: 81.94%;
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+    line-height: 80px;
+
+    color: #FFEC00;
+}
+
+#nossaHistoria p {
+    position: absolute;
+    left: 16.13%;
+    right: 0%;
+    top: 13%;
+    bottom: 0%;
+    margin-right: 5%;
+
+    font-family: Original Surfer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+#certificados {
+    position: absolute;
+    width: 631px;
+    height: 375px;
+    left: 0%;
+    top: 20%;
+    max-width: 50%;
+    background: #FFFFFF
+}
+
+#certificados h1 {
+    position: absolute;
+    left: 27.96%;
+    right: 27.78%;
+    top: 1%;
+    bottom: 80.8%;
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+
+    color: #8D0900;
+}
+
+#certificados p {
+    position: absolute;
+    left: 2.04%;
+    right: 4.49%;
+    top: 27.73%;
+    bottom: -1.53%;
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #000000;
+}
+
+#premios {
+    position: absolute;
+    width: 631px;
+    height: 375px;
+    left: 50%;
+    top: 21%;
+    max-width: 50%;
+    background: #000000;
+}
+
+#premios h1 {
+    position: absolute;
+    width: 169px;
+    height: 45px;
+    left: calc(50% - 169px/2 + 10px);
+    top: calc(50% - 45px/2 - 176px);
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+
+    color: #8D0900;
+}
+
+#premios p {
+    position: absolute;
+    width: 519.21px;
+    height: 300px;
+    left: calc(50% - 519.21px/2 + 11.1px);
+    top: calc(50% - 300px/2 + 32.5px);
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 30px;
+
+    color: #FFFFFF;
+}
+
+#produtosTitulo {
+    position: absolute;
+    width: 500px;
+    height: 100px;
+    left: calc(50% - 500px/2);
+    top: 33%;
+
+    background: #8D0900;
+    box-shadow: 10px 10px 8px 3px rgba(0, 0, 0, 0.7);
+}
+
+#produtosTitulo h1 {
+    position: absolute;
+    left: 25.4%;
+    right: 25.4%;
+    top: -47%;
+
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+
+#barraDoces {
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    left: 2%;
+    top: 38%;
+
+    background: #FFFFFF;
+    border: 4px solid #8D0900;
+    box-sizing: border-box;
+    border-radius: 15px 500px 0px 0px;
+}
+
+#barraDoces h1 {
+    position: absolute;
+    width: 148px;
+    height: 90px;
+    left: calc(50% - 148px/2 - 51px);
+    top: -50px;
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+#barraDoces img {
+    position: absolute;
+    width: 350px;
+    height: 309px;
+    left: calc(50% - 350px/2);
+    top: 37%;
+
+}
+
+#barraSalgados {
+
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    left: 36.2%;
+    top: 38%;
+
+    background: #FFFFFF;
+    border: 4px solid #8D0900;
+    box-sizing: border-box;
+    border-radius: 15px 500px 0px 0px;
+}
+
+#barraSalgados h1 {
+    position: absolute;
+    left: 10%;
+    right: 18.86%;
+    top: -50px;
+    bottom: 0%;
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+#barraSalgados img {
+    position: absolute;
+    width: 350px;
+    height: 309px;
+    left: calc(50% - 350px/2);
+    top: 37%;
+}
+
+#barraBolos {
+    position: absolute;
+    width: 350px;
+    height: 100px;
+    right: 2%;
+    top: 38%;
+
+    background: #FFFFFF;
+    border: 4px solid #8D0900;
+    box-sizing: border-box;
+    border-radius: 15px 500px 0px 0px;
+}
+
+#barraBolos h1 {
+    position: absolute;
+    left: 14.29%;
+    right: 47.14%;
+    top: -50px;
+    bottom: 5%;
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 90px;
+    /* identical to box height */
+
+
+    color: #000000;
+}
+
+#barraBolos img {
+    position: absolute;
+    width: 350px;
+    height: 309px;
+    left: calc(50% - 350px/2);
+    top: 37%;
+}
+
+#produtosDeciliosos {
+    position: absolute;
+
+    right: 5%;
+    top: 47%;
+
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 48px;
+    line-height: 60px;
+    color: white;
+}
+
+#comoChegar {
+    position: absolute;
+    width: 1080px;
+    height: 575px;
+    left: 0%;
+    top: 55.5%;
+    
+    background: #8D0900;
+    border-radius: 50px 0px;
+
+Width :100%;
+Height :500px;
+}
+
+#comoChegarFundoTitulo {
+    position: absolute;
+left: 7.69%;
+right: 58.8%;
+top: 10%;
+bottom: 75%;
+
+background: #000000;
+border-radius: 0px 20px 20px 20px;
+}
+
+#comoChegar h1 {
+    position: absolute;
+    top: -65%;
+    left: 10%;
+
+    
+    font-family: Lobster;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 64px;
+
+    
+    color: #FFFFFF;
+}
+
+#comoChegar p {
+    position: absolute;
+    left: 60%;
+    right: 1%;
+    top: 35%;
+    bottom: 0%;
+    
+    font-family: Original Surfer;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 45px;
+
+    color: #FFFFFF;
+}
+
+#entreEmContatoTitulo {
+    font-family: Original Surfer;
+font-style: normal;
+font-weight: normal;
+font-size: 54px;
+text-align: center;
+}
+
+label {
+    font-size: 24px;
+    left: 10%;
+    font-family: Original Surfer;
+font-style: normal;
+font-weight: normal;
+}
+
+input {
+    width: 22%;
+    border:black 2px solid;
+    background: rgba(196, 196, 196, 0.5);
+    height: 5%;
+    left: 10%;
+    padding-left: 20px;
+    font-family: Original Surfer;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+}
+
+#entreEmContatoFundo {
+    position: absolute;
+width: 100%;
+height: 575px;
+left: 0%;
+top: 70%;
+border-radius: 0px 50px 0px 50px;
+background: #FFFFFF;
+}
+
+#entreEmContatoNomeL {
+    position: absolute;
+    top:30%;
+}
+
+#entreEmContatoNomeI  {
+    position: absolute;
+    top:36%;
+}
+
+#entreEmContatoCidadeL {
+    position: absolute;
+    top:45%;
+}
+
+#entreEmContatoCidadeI {
+    position: absolute;
+    top:51%;
+}
+
+#entreEmContatoTelefoneL {
+    position: absolute;
+    top:60%;
+}
+
+#entreEmContatoTelefoneI {
+    position: absolute;
+    top:66%;
+}
+
+#entreEmContatoEmailL {
+    position: absolute;
+    top:75%;
+}
+
+#entreEmContatoEmailI {
+    position: absolute;
+    top:81%;
+}
+
+#entreEmContatoMensagemL {
+    position: absolute;
+    top:30%;
+    left:65%;
+}
+
+#entreEmContatoMensagemI {
+    position: absolute;
+    top:36%;
+    left:50%;
+    height: 46.5%;
+    width: 40%;
+    text-align: start;
+    border:black 2px solid;
+    background: rgba(196, 196, 196, 0.5);
+    padding-left: 20px;
+    padding-top: 20px;
+    font-size: 16px;
+}
+
+#entreEmContatoBotao {
+    position: absolute;
+    top:91%;
+    left:45%;
+    width: 10%;
+    height: 5%;
+    font-size: 16px;
+    background: rgba(196, 196, 196, 0.5);
+    border:black 1px solid;
+    font-family: Original Surfer;
+}
+
+#venhaNosConhecer {
+    position: absolute;
+    top:88.5%;
+    left:25%;
+    font-size: 62px;
+    font-family: Lobster;
+    color: white;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+    transform: translateY(20%);
+}
+
+#grupoDionisio {
+    width: 220px;
+    height: 50px;
+    transform: translateY(0%);
+}
+
+#barraFinal {
+    position: absolute;
+width: 100%;
+height: 160px;
+left:0px;
+top:4650px;
+
+background: #8D0900;
+}
+
+li {
+    list-style: none;
+    display: inline-block;
+    padding-left: 35px;
+    padding-right: 35px;
+    margin-left: 0px;
+}
+
+#feitoPor {
+    font-size: 24px;
+    padding-right: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+}
