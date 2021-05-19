@@ -7,12 +7,11 @@ html {
     max-width: 1280px;
     background: #D7B369;
     position: relative;
-
 }
 
 
 #retanguloFixo {
-    min-width: 1200px;
+    min-width: 1250px;
     position: fixed;
     left: 0%;
     right: 0%;
@@ -329,8 +328,6 @@ html {
     font-weight: normal;
     font-size: 72px;
     line-height: 90px;
-    /* identical to box height */
-
 
     color: #000000;
 }
@@ -402,23 +399,23 @@ html {
     height: 575px;
     left: 0%;
     top: 55.5%;
-    
+
     background: #8D0900;
     border-radius: 50px 0px;
 
-Width :100%;
-Height :500px;
+    Width: 100%;
+    Height: 500px;
 }
 
 #comoChegarFundoTitulo {
     position: absolute;
-left: 7.69%;
-right: 58.8%;
-top: 10%;
-bottom: 75%;
+    left: 7.69%;
+    right: 58.8%;
+    top: 10%;
+    bottom: 75%;
 
-background: #000000;
-border-radius: 0px 20px 20px 20px;
+    background: #000000;
+    border-radius: 0px 20px 20px 20px;
 }
 
 #comoChegar h1 {
@@ -426,13 +423,13 @@ border-radius: 0px 20px 20px 20px;
     top: -65%;
     left: 10%;
 
-    
+
     font-family: Lobster;
     font-style: normal;
     font-weight: normal;
     font-size: 64px;
 
-    
+
     color: #FFFFFF;
 }
 
@@ -442,7 +439,7 @@ border-radius: 0px 20px 20px 20px;
     right: 1%;
     top: 35%;
     bottom: 0%;
-    
+
     font-family: Original Surfer;
     font-style: normal;
     font-weight: normal;
@@ -454,97 +451,97 @@ border-radius: 0px 20px 20px 20px;
 
 #entreEmContatoTitulo {
     font-family: Original Surfer;
-font-style: normal;
-font-weight: normal;
-font-size: 54px;
-text-align: center;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 54px;
+    text-align: center;
 }
 
 label {
     font-size: 24px;
     left: 10%;
     font-family: Original Surfer;
-font-style: normal;
-font-weight: normal;
+    font-style: normal;
+    font-weight: normal;
 }
 
 input {
     width: 22%;
-    border:black 2px solid;
+    border: black 2px solid;
     background: rgba(196, 196, 196, 0.5);
     height: 5%;
     left: 10%;
     padding-left: 20px;
     font-family: Original Surfer;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
 }
 
 #entreEmContatoFundo {
     position: absolute;
-width: 100%;
-height: 575px;
-left: 0%;
-top: 70%;
-border-radius: 0px 50px 0px 50px;
-background: #FFFFFF;
+    width: 100%;
+    height: 575px;
+    left: 0%;
+    top: 70%;
+    border-radius: 0px 50px 0px 50px;
+    background: #FFFFFF;
 }
 
 #entreEmContatoNomeL {
     position: absolute;
-    top:30%;
+    top: 30%;
 }
 
-#entreEmContatoNomeI  {
+#entreEmContatoNomeI {
     position: absolute;
-    top:36%;
+    top: 36%;
 }
 
 #entreEmContatoCidadeL {
     position: absolute;
-    top:45%;
+    top: 45%;
 }
 
 #entreEmContatoCidadeI {
     position: absolute;
-    top:51%;
+    top: 51%;
 }
 
 #entreEmContatoTelefoneL {
     position: absolute;
-    top:60%;
+    top: 60%;
 }
 
 #entreEmContatoTelefoneI {
     position: absolute;
-    top:66%;
+    top: 66%;
 }
 
 #entreEmContatoEmailL {
     position: absolute;
-    top:75%;
+    top: 75%;
 }
 
 #entreEmContatoEmailI {
     position: absolute;
-    top:81%;
+    top: 81%;
 }
 
 #entreEmContatoMensagemL {
     position: absolute;
-    top:30%;
-    left:65%;
+    top: 30%;
+    left: 65%;
 }
 
 #entreEmContatoMensagemI {
     position: absolute;
-    top:36%;
-    left:50%;
+    top: 36%;
+    left: 50%;
     height: 46.5%;
     width: 40%;
     text-align: start;
-    border:black 2px solid;
+    border: black 2px solid;
     background: rgba(196, 196, 196, 0.5);
     padding-left: 20px;
     padding-top: 20px;
@@ -553,20 +550,20 @@ background: #FFFFFF;
 
 #entreEmContatoBotao {
     position: absolute;
-    top:91%;
-    left:45%;
+    top: 91%;
+    left: 45%;
     width: 10%;
     height: 5%;
     font-size: 16px;
     background: rgba(196, 196, 196, 0.5);
-    border:black 1px solid;
+    border: black 1px solid;
     font-family: Original Surfer;
 }
 
 #venhaNosConhecer {
     position: absolute;
-    top:88.5%;
-    left:25%;
+    top: 88.5%;
+    left: 25%;
     font-size: 62px;
     font-family: Lobster;
     color: white;
@@ -586,12 +583,12 @@ img {
 
 #barraFinal {
     position: absolute;
-width: 100%;
-height: 160px;
-left:0px;
-top:4650px;
+    width: 100%;
+    height: 160px;
+    left: 0px;
+    top: 4650px;
 
-background: #8D0900;
+    background: #8D0900;
 }
 
 li {
